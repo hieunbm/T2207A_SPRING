@@ -1,0 +1,19 @@
+Giới thiệu về Spring Boot
+Spring Boot là một dự án phát triển và duy trì bởi Pivotal Team tại công ty VMware. Nó là một framework phát triển ứng dụng Java được xây dựng trên nền tảng của Spring Framework. Mục tiêu chính của Spring Boot là giúp các nhà phát triển xây dựng các ứng dụng Java dễ dàng hơn bằng cách cung cấp một cách tiếp cận linh hoạt và nhanh chóng hơn.
+
+Spring Boot giúp giảm bớt sự phức tạp trong việc cấu hình và triển khai ứng dụng bằng cách cung cấp các cấu hình mặc định để giảm thiểu việc cấu hình thủ công. Nó cũng hỗ trợ việc triển khai nhanh chóng thông qua việc tích hợp sẵn các công cụ như Maven hoặc Gradle, cùng với việc tạo ra các container như Tomcat, Jetty hoặc Undertow cho phép chạy ứng dụng một cách độc lập mà không cần cấu hình thêm.
+
+Các Đặc Điểm Chính của Spring Boot
+1. Tự cấu hình (Auto-configuration)
+Spring Boot sử dụng cơ chế tự cấu hình để tự động cấu hình ứng dụng dựa trên các thư viện và các thành phần có sẵn trong classpath. Điều này giúp giảm bớt công việc cấu hình thủ công và tăng hiệu suất phát triển.
+
+2. Dependency Injection (DI)
+Spring Boot tiếp tục hỗ trợ Dependency Injection, cho phép quản lý các bean và các thành phần của ứng dụng một cách dễ dàng và linh hoạt.
+
+3. Embedded Servers
+Spring Boot cung cấp sự hỗ trợ cho việc triển khai ứng dụng bằng cách nhúng các máy chủ như Tomcat, Jetty hoặc Undertow vào trong ứng dụng, giúp cho việc triển khai trở nên đơn giản và dễ dàng.
+
+4. Spring Boot Starter
+Spring Boot Starter là các module được cung cấp sẵn, giúp giảm bớt công việc cấu hình và triển khai bằng cách tự động cấu hình các thư viện cần thiết cho ứng dụng.
+Kết Luận
+Spring Boot là một framework mạnh mẽ và linh hoạt cho việc phát triển các ứng dụng Java. Việc sử dụng Spring Boot giúp giảm bớt sự phức tạp trong quá trình phát triển và triển khai ứng dụng, đồng thời cung cấp sự linh hoạt và tiện ích cho các nhà phát triển. Bằng cách sử dụng các tính năng như tự cấu hình, Dependency Injection và các module sẵn có, Spring Boot giúp tăng tốc độ phát triển và giảm bớt công việc lặp lại.
